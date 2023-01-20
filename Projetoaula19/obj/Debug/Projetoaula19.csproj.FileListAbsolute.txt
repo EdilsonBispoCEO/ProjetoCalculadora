@@ -1,0 +1,11 @@
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\bin\Debug\Projetoaula19.exe.config
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\bin\Debug\Projetoaula19.exe
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\bin\Debug\Projetoaula19.pdb
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\obj\Debug\Projetoaula19.csproj.AssemblyReference.cache
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\obj\Debug\Projetoaula19.csproj.SuggestedBindingRedirects.cache
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\obj\Debug\Projetoaula19.Form1.resources
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\obj\Debug\Projetoaula19.Properties.Resources.resources
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\obj\Debug\Projetoaula19.csproj.GenerateResource.cache
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\obj\Debug\Projetoaula19.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\obj\Debug\Projetoaula19.exe
+C:\Users\edilson.csbispo\source\repos\Projetoaula19\obj\Debug\Projetoaula19.pdb
